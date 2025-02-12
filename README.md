@@ -15,13 +15,16 @@ Welcome to my GitHub profile! I'm a beginner programmer currently learning and i
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 
 ### 🛠 Tools & IDEs
+- ![MAMP](https://img.shields.io/badge/-MAMP-lightgrey?style=flat-square&logo=mamp)
+- ![XAMPP](https://img.shields.io/badge/-XAMPP-orange?style=flat-square&logo=xampp)
 - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
 - ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-darkgreen?style=flat-square&logo=qt)
 
 Feel free to explore my repositories and contribute if you'd like! I'm always open to learning from others and collaborating on exciting projects. 😃
 
 ## 📫 Get in Touch
-- GitHub: [Hub1i](https://github.com/Hub1i)
-- Email: hubert.zarychta@vp.pl
+- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: your.email@example.com
 
 Thanks for visiting my profile! 🚀
+
