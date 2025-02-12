@@ -24,6 +24,8 @@ Feel free to explore my repositories and contribute if you'd like! I'm always op
 
 ## 📊 GitHub Stats
 ![Hub1i's github stats](https://github-readme-stats.vercel.app/api?username=Hub1i&show_icons=true&theme=radical)
+![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=twojanazwa&show_icons=true&count_private=true&theme=radical)
+
 
 ## 📫 Get in Touch
 - GitHub: [Hub1i](https://github.com/Hub1i)
