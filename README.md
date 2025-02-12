@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm a beginner programmer currently learning and i
 
 Feel free to explore my repositories and contribute if you'd like! I'm always open to learning from others and collaborating on exciting projects. 😃
 
-## 📊 GitHub Stats
-![Hub1i's github stats](https://github-readme-stats.vercel.app/api?username=Hub1i&show_icons=true&count_private=true&theme=radical)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-brightgreen)
-
-
-
 ## 📫 Get in Touch
 - GitHub: [Hub1i](https://github.com/Hub1i)
 - Email: hubert.zarychta@vp.pl
