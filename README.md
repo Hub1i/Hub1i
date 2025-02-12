@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm a beginner programmer currently learning and i
 Feel free to explore my repositories and contribute if you'd like! I'm always open to learning from others and collaborating on exciting projects. 😃
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Hub1i's github stats](https://github-readme-stats.vercel.app/api?username=Hub1i&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Email: your.email@example.com
+- GitHub: [Hub1i](https://github.com/Hub1i)
+- Email: hubert.zarychta@vp.pl
 
 Thanks for visiting my profile! 🚀
 
