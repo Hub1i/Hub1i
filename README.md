@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a beginner programmer currently learning and improving my skills. I'm in my second year of technical school, where I focus on software development and IT-related topics. 
+Welcome to my GitHub profile! I'm a intermediate programmer currently learning and improving my skills. I'm in my third year of technical school, where I focus on software development and IT-related topics. 
 
 ## 🚀 Technologies & Tools
 
